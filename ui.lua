@@ -749,13 +749,13 @@ function library:Introduction()
     xsxLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     xsxLogo.BackgroundTransparency = 1.000
     xsxLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
-    xsxLogo.Size = UDim2.new(1,0,1,0)
+    xsxLogo.Size = UDim2.new(.8,0,.8,0)
     xsxLogo.Visible = true
     xsxLogo.Image = "http://www.roblox.com/asset/?id=7414445494"
     xsxLogo.ImageColor3 = Color3.fromRGB(120, 0, 0)
     xsxLogo.ImageTransparency = 1
     
-    hashLogo.Name = "hashLogo"
+    hashLogo.Name = "peanutLogo"
     hashLogo.Parent = background
     hashLogo.AnchorPoint = Vector2.new(0.5, 0.5)
     hashLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -773,7 +773,7 @@ function library:Introduction()
     xsx.BackgroundTransparency = 1.000
     xsx.Size = UDim2.new(0, 80, 0, 21)
     xsx.Font = Enum.Font.Code
-    xsx.Text = "powered by xsx"
+    xsx.Text = "made possible by nutty"
     xsx.TextColor3 = Color3.fromRGB(124, 124, 124)
     xsx.TextSize = 10.000
     xsx.TextTransparency = 1
@@ -785,7 +785,7 @@ function library:Introduction()
     text.Position = UDim2.new(0.912751675, 0, 0, 0)
     text.Size = UDim2.new(0, 26, 0, 21)
     text.Font = Enum.Font.Code
-    text.Text = "hash"
+    text.Text = "downy ;)"
     text.TextColor3 = Color3.fromRGB(124, 124, 124)
     text.TextSize = 10.000
     text.TextTransparency = 1
