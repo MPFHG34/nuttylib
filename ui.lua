@@ -743,13 +743,13 @@ function library:Introduction()
     barLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
     barLayout.SortOrder = Enum.SortOrder.LayoutOrder
     
-    xsxLogo.Name = "xsxLogo"
+    xsxLogo.Name = "nuttyLogo"
     xsxLogo.Parent = background
     xsxLogo.AnchorPoint = Vector2.new(0.5, 0.5)
     xsxLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     xsxLogo.BackgroundTransparency = 1.000
     xsxLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
-    xsxLogo.Size = UDim2.new(0, 448, 0, 150)
+    xsxLogo.Size = UDim2.new(1,0,1,0)
     xsxLogo.Visible = true
     xsxLogo.Image = "http://www.roblox.com/asset/?id=7414445494"
     xsxLogo.ImageColor3 = Color3.fromRGB(120, 0, 0)
