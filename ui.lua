@@ -782,8 +782,8 @@ function library:Introduction()
     text.Parent = background
     text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     text.BackgroundTransparency = 1.000
-    text.Position = UDim2.new(0.912751675, 0, 0, 0)
-    text.Size = UDim2.new(0.5, 0, 0, 21)
+    text.Position = UDim2.new(0.9, 0, 0, 0)
+    text.Size = UDim2.new(0, 30, 0, 21)
     text.Font = Enum.Font.Code
     text.Text = "downy ;)"
     text.TextColor3 = Color3.fromRGB(124, 124, 124)
