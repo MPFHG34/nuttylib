@@ -771,7 +771,7 @@ function library:Introduction()
     xsx.Parent = background
     xsx.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     xsx.BackgroundTransparency = 1.000
-    xsx.Size = UDim2.new(0.5, 0, 0, 21)
+    xsx.Size = UDim2.new(0.4, 0, 0, 21)
     xsx.Font = Enum.Font.Code
     xsx.Text = "made possible by nutty"
     xsx.TextColor3 = Color3.fromRGB(124, 124, 124)
@@ -783,7 +783,7 @@ function library:Introduction()
     text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     text.BackgroundTransparency = 1.000
     text.Position = UDim2.new(0.912751675, 0, 0, 0)
-    text.Size = UDim2.new(0, 36, 0, 21)
+    text.Size = UDim2.new(0.5, 0, 0, 21)
     text.Font = Enum.Font.Code
     text.Text = "downy ;)"
     text.TextColor3 = Color3.fromRGB(124, 124, 124)
